@@ -1,5 +1,5 @@
-#<h1></h1> Titulo grande
-#<h2></h2> Titulo semi grande
+'<h1></h1>' Titulo grande
+'<h2></h2>' Titulo semi grande
 #<h3></h3> Titulo mediano
 #<h4></h4> Titulo semi mediano
 #<h5></h5> Titulo chico
