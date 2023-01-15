@@ -1,4 +1,4 @@
-´´´´
+```html
 <h1></h1> Titulo grande
 <h2></h2> Titulo semi grande
 <h3></h3> Titulo mediano
@@ -12,4 +12,4 @@
 <i></i> Italica
 <strike></strike> Tachada
 <small></small> pequeña	
-´´´´
+```
